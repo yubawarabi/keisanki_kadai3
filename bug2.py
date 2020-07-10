@@ -5,7 +5,10 @@ y=0
 
 if x>y:
     print('x>y')
+    print(x'>'y)
 else x==y:
     print('x=y')
+    print(x'='y)
 else:
     print('x<y')
+    print(x'<'y)
